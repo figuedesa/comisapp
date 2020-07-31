@@ -1,0 +1,17 @@
+Extensiones Yii2 usadas
+
+composer require 2amigos/yii2-bootstrap-form-helpers-library
+
+composer require 2amigos/yii2-date-picker-widget * [Ok]
+
+composer require --prefer-dist 3ch3r46/bootui-datepicker "1.0.0"
+
+composer require 2amigos/yii2-date-picker-widget [Ok]
+
+composer require 2amigos/yii2-date-picker-widget:~1.0
+
+composer require kartik-v/yii2-widget-select2 "@dev" [Ok]
+
+composer require kartik-v/yii2-grid "*" [Ok]
+
+composer require --prefer-dist wbraganca/yii2-dynamicform "*"
